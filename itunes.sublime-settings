@@ -1,0 +1,5 @@
+{
+    "auto_hide": true,
+    "hide_msec": 10000,
+    "polling_msec": 1000 // TODO
+}
